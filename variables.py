@@ -12,4 +12,11 @@ Show here '''
 # Mulitple Assignment
 x, y, name, is_cool = (1, 2.5, 'Ryan', True)
 
-print('Hello')
+a = x + y
+
+# Casting
+x = str(x)
+y = int(y)
+z = float(y)
+
+print(type(z), z)
