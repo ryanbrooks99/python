@@ -21,7 +21,7 @@ fruits.remove('Grapes')
 # Insert into new postition
 fruits.insert(2, 'Strawberries')
 
-#Remove witrh pop
+#Remove with pop
 fruits.pop(2)
 
 #Reverse
